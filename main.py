@@ -1,1 +1,3 @@
-#WRITE YOUR CODE IN THIS FILE
+def devider(a,b):
+    return (a / b)
+print (devider(10, 2))
